@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Goodwork by Goodman"
+  
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: About
+      - href: resume.qmd
+        text: Resume
+      - href: projects.qmd
+        text: Projects
+    tools:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lukegood/
+      - icon: github
+        menu:
+          - text: This Site's Source
+            url:  https://code.com
+          - text: Luke's Hub
+            url: https://github.com/lgood712
+  
+  back-to-top-navigation: true
+  page-footer: 
+    background: light
+    left: "Copyright 2024, Luke N. Goodman" 
+    right: 
+      - icon: github
+        href: https://github.com/lgood712
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lukegood/
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+

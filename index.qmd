@@ -1,0 +1,16 @@
+---
+title: "About Luke N. Goodman"
+---
+
+
+I'm Luke. I'm a practical and optimistic tech professional. 
+
+I've had the pleasure of working in a start-up incubator, for mid-sized companies, and on massive-scale products, such as Instagram and Facebook while at Meta. 
+
+I've supported a variety of products and companies in strategy, operations, data analytics, and product management. I enjoy problem-solving, delivering value to people, and leading complex products and projects. [Check out my resume here](/resume.qmd).
+
+Outside of work, I enjoy basketball and volleyball, reading, crossword puzzles, camping and hiking, and continued learning. I try to record some of my coursework, projects, and other exploits on [the Projects page of this site](/projects.qmd).
+
+
+
+
