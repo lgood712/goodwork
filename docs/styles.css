@@ -1,1 +1,11 @@
 /* css styles */
+.maintext {
+    font-size: x-large;
+}
+.lginsta {
+    display: inline;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 40%;
+    margin: 20px;
+}
